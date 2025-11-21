@@ -6,7 +6,7 @@
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED.svg)](https://www.docker.com/)
 [![MLflow](https://img.shields.io/badge/MLflow-Tracking-0194E2.svg)](https://mlflow.org/)
 
-An end-to-end MLOps pipeline for predicting the Remaining Useful Life (RUL) of turbofan engines using the NASA CMAPSS dataset. Features experiment tracking, model serving, drift detection, and a modern React dashboard.
+An end-to-end MLOps pipeline for predicting the Remaining Useful Life (RUL) of turbofan engines using the NASA *CMAPSS* dataset. Features experiment tracking, model serving, drift detection, and a modern React dashboard.
 
 ![Dashboard](https://via.placeholder.com/800x400?text=Industry+4.0+Dashboard)
 

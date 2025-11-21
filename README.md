@@ -57,17 +57,6 @@ git clone https://github.com/fauzan111/Industry_4.0_Predictive_Maintenance_syste
 cd Industry_4.0_Predictive_Maintenance_system
 ```
 
-2. **Start all services**
-```bash
-docker-compose up -d --build
-```
-
-3. **Access the applications**
-- **Dashboard**: http://localhost:5173 (dev) or http://localhost:3000 (prod)
-- **API Docs**: http://localhost:8000/docs
-- **MLflow UI**: http://localhost:5000
-- **MinIO Console**: http://localhost:9001
-
 ## 📖 Usage
 
 ### Training a Model

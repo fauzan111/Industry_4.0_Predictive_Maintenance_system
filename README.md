@@ -209,7 +209,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact
 
-For questions or collaboration opportunities, please open an issue or reach out via GitHub or Email me here- ejazfauzan14@gmail.com.
+For questions or collaboration opportunities, please reach out via GitHub or Email me here- ejazfauzan14@gmail.com.
 
 ---
 
